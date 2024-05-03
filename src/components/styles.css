@@ -1,0 +1,27 @@
+.countH1 {
+  font-size: 10em;
+  margin: 0.1em;
+}
+
+button {
+  font-size: 1.5em;
+  padding: 10px;
+  margin: 0 0.5em;
+  border: 2px solid gray;
+  border-radius: 10px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(97, 93, 93);
+}
+
+.numberInput {
+  width: 2em;
+  font-size: 1.5em;
+  padding: 10px;
+  margin: 0.5em;
+  border: 2px solid gray;
+  border-radius: 10px;
+  text-align: center;
+}
+
